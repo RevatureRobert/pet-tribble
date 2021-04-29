@@ -20,7 +20,7 @@ In return for you hard work, we are willing to pay you in points! Here is how yo
 ## Scoring
 
 ### Database: 15 Points
-Construct a database schema that has tables for our each tribble's information and for our labs that can hold the different tribbles. Considering how they multiply, we have had to construct multiple labs, so this is a must.
+Construct a database schema that has tables for our tribbles' and labs' information. Considering how they multiply, we have had to construct multiple labs, so this is a must.
 > For the relationships, each lab can have multiple Tribbles, but one tribble can only be held in one lab during its lifetime.
 
 ### Models: 10 Points
